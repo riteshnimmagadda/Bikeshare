@@ -14,22 +14,22 @@ For this analysis, I used Pandas to change the "tripduration" column from an int
 
 * Checkout times for Users
 
-![alt text](https://github.com/riteshnimmagadda/School_District_Analysis/blob/main/Resources/Thomas%20High%20School_2.png)
+![alt text](https://github.com/riteshnimmagadda/Bikeshare/blob/main/Resources/checkout%20time%20for%20user.png)
 
 * Checkout times for Users by Gender
-![alt text](https://github.com/riteshnimmagadda/School_District_Analysis/blob/main/Resources/Thomas%20High%20School_2.png)
+![alt text](https://github.com/riteshnimmagadda/Bikeshare/blob/main/Resources/checkout%20times%20for%20user.png)
 
 * Trips by weekday for each Hour
-![alt text](https://github.com/riteshnimmagadda/School_District_Analysis/blob/main/Resources/Thomas%20High%20School_2.png)
+![alt text](https://github.com/riteshnimmagadda/Bikeshare/blob/main/Resources/trips%20by%20weekday%20for%20each%20hour.png)
 
 * Trips by Gender (Weekday per Hour)
-![alt text](https://github.com/riteshnimmagadda/School_District_Analysis/blob/main/Resources/Thomas%20High%20School_2.png)
+![alt text](https://github.com/riteshnimmagadda/Bikeshare/blob/main/Resources/trips%20by%20gender%20(weekday%20per%20hour).png)
 
 * User trips by gender by Weekday
-![alt text](https://github.com/riteshnimmagadda/School_District_Analysis/blob/main/Resources/Thomas%20High%20School_2.png)
+![alt text](https://github.com/riteshnimmagadda/Bikeshare/blob/main/Resources/user%20trips%20by%20gender%20by%20weekday.png)
 
 
 ## Summary:
 
 * Bikehsare Story
-![alt text](https://github.com/riteshnimmagadda/School_District_Analysis/blob/main/Resources/Thomas%20High%20School_2.png)
+![alt text](https://github.com/riteshnimmagadda/Bikeshare/blob/main/Resources/bikeshare%20story.png)

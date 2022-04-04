@@ -33,3 +33,9 @@ For this analysis, I used Pandas to change the "tripduration" column from an int
 
 * Bikehsare Story
 ![alt text](https://github.com/riteshnimmagadda/Bikeshare/blob/main/Resources/bikeshare%20story.png)
+
+As it is intutive fromt the above graphs that males are the high users for bikes in NYC area, it is also important to attract the females by offering more female bikes at the stations
+
+it is also important to look at the age demographic for the rides to better serve the needs of the riders. 
+
+Also, it might be worth it to try exploring electric bikes for elderly and tricycles for group riders.

@@ -31,6 +31,7 @@ For this analysis, I used Pandas to change the "tripduration" column from an int
 
 ## Summary:
 
+[link to dashboard](https://public.tableau.com/app/profile/rick3703/viz/Assignment14_16496819590180/Story1?publish=yes)
 * Bikehsare Story
 ![alt text](https://github.com/riteshnimmagadda/Bikeshare/blob/main/Resources/bikeshare%20story.png)
 
